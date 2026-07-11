@@ -150,16 +150,6 @@
 
 ---
 
-# 🏆 Top Contributed Repository
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=devabhinavraj&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=devabhinavraj&style=for-the-badge&color=blue)

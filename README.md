@@ -10,8 +10,6 @@
 
 ---
 
-# 💫 About Me
-
 ## 👨‍💻 About Me
 
 - 🤖 Passionate **AI & Machine Learning** enthusiast focused on building intelligent, real-world solutions.

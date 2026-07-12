@@ -4,7 +4,7 @@
 
 ### *Building intelligence • Solving problems • Creating impact 🚀*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Enthusiast;Quantum+Machine+Learning+Researcher;AI%2FML+Intern+at+Tata+Steel;Building+Intelligent+Systems+with+Python" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Generative+AI+Enthusiast;Quantum+Machine+Learning+Researcher;Building+Intelligent+Systems+with+Python" alt="Typing SVG" />
 
 </div>
 

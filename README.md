@@ -13,7 +13,6 @@
 ## 👨‍💻 About Me
 
 - 🤖 Passionate **AI & Machine Learning** enthusiast focused on building intelligent, real-world solutions.
-- 🏭 Currently working on **Predictive Maintenance using Machine Learning** as an **AI/ML Intern at Tata Steel**.
 - 🧬 Exploring **Quantum Machine Learning (QCNN)** for breast cancer classification through research-driven projects.
 - 🚀 Building **Generative AI**, **LLMs**, and **LangChain** applications to solve practical problems.
 - 📚 Always learning and experimenting with **Agentic AI**, **RAG**, **FastAPI**, and modern AI technologies.

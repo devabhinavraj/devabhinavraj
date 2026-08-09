@@ -137,12 +137,14 @@
 
 ---
 
-📈 My Coding Footprints <p align="center">
+## 📈 My Coding Footprints
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devabhinavraj&custom_title=GitHub%20Activity%20Graph&theme=dracula&hide_border=true&line=5882B5&point=FFFFFF&area=true&bg_color=282a36" alt="GitHub Activity Graph" />
-
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=devabhinavraj&custom_title=GitHub%20Activity%20Graph&theme=dracula&hide_border=true&line=5882B5&point=FFFFFF&area=true&bg_color=282a36" 
+    alt="GitHub Activity Graph" 
+  />
 </p>
-
 # ✍️ Random Dev Quote
 
 <div align="center">

@@ -137,21 +137,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=devabhinavraj&show_icons=true&theme=dracula&hide_border=true&count_private=true" 
-    alt="GitHub Stats" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devabhinavraj&layout=compact&theme=dracula&hide_border=true" 
-    alt="Top Languages" 
-    height="180"
-  />
-</p>
-
 ## 📈 My Coding Footprints
 
 <p align="center">

@@ -125,7 +125,7 @@
 
 # 📊 GitHub Stats
 
-<div align="center">
+<div align="cente">
 
 ![](https://github-readme-stats.vercel.app/api?username=devabhinavraj&show_icons=true&theme=tokyonight)
 
